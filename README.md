@@ -1,4 +1,3 @@
-![logo](https://github.com/pawanmali1010/pawanmali1010/blob/main/Colorful%20Shapes%20Header%20Banner2.jpg)
 
 <h1 align="center">Hi 👋, I'm Pawan Mali</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
