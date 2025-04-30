@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Mali</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3 align="center">A passionate Flutter Developer from India. I code apps📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanmali1010&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmali1010" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Flutter💙**
 
-- 🌱 I’m currently learning **App Development📈**
+- 🌱 I’m currently learning **App Development💡**
 
 - 💬 Ask me about **Technology🚀**
 
 - 📫 How to reach me **pawanmali1010@gmail.com**
 
-- ⚡ Fun fact **I code apps📱**
+- ⚡ Fun fact **❤️Technologia✨**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
